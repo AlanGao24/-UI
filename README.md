@@ -78,3 +78,16 @@ npm run dev
 - [ ] 实时数据推送（WebSocket）
 - [ ] 导出功能（Excel/PDF）
 - [ ] 多语言支持
+
+---
+
+## 截图展示
+
+### 饼图部分
+![饼图部分](screenshots/screenshot1.png)
+
+### 世界地图
+![世界地图](screenshots/screenshot2.png)
+
+### 表格部分
+![表格部分](screenshots/screenshot3.png)
